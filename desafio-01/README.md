@@ -36,7 +36,7 @@ Defina qual será seu horário de estudo, criando tarefas que estarão atreladas
 
 ## Meu Cronograma
 
-📄 **[Meu Cronograma](https://www.notion.so/Cronograma-de-estudos-e390bc8d2f5743668ec03348a3306070)**
+📄 **[Meu Cronograma](https://www.notion.so/Cronograma-de-estudos-985dc50fffae4b7e8d18cf4964914e61)**
 
 ## :memo: Licença
 
